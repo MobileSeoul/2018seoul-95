@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">드라마 인 서울</string>
+
+    <string name="guide_main">당신이 좋아하는 드라마를 검색해보세요&#8230;&#8230;&#8230;</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="drama_name">title</string>
+    <string name="drama_context">drama_context</string>
+    <string name="resultText">드라마와의 유사도는?</string>
+    <string name="resultBtnText">Okey</string>
+    <string name="result_locationText">장소 유사도</string>
+    <string name="result_PosText">포즈 유사도</string>
+</resources>

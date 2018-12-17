@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "512324569552",
+    "firebase_url": "https://pickd-android.firebaseio.com",
+    "project_id": "pickd-android",
+    "storage_bucket": "pickd-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512324569552:android:5ed70dd09f9cb957",
+        "android_client_info": {
+          "package_name": "gukbab1216.com.chalkak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512324569552-b4a6hcrmrlrgmcvej4qrsti9eojbdrd0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gukbab1216.com.chalkak",
+            "certificate_hash": "466a466ee6a39ad0cdf3e74a094148cfc1100e39"
+          }
+        },
+        {
+          "client_id": "512324569552-a29g7t28fcu4005r4m5l8b8n6rt0qj4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYB1D2T3QVMZUvK4gUrRMVYvsv_7AfpnA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512324569552-a29g7t28fcu4005r4m5l8b8n6rt0qj4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
